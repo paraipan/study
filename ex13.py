@@ -10,4 +10,5 @@ print "Your third variable is:", z
 
 print x,y,z
 
+
 stuff = raw_input("do you like %s, %s or %s the most ?" %(x,y,z))
