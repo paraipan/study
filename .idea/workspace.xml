@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1fa9286-d2c4-42d7-9c60-0c97f40e2818" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex18.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex17_input" afterPath="$PROJECT_DIR$/ex17_input" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex17_output" afterPath="$PROJECT_DIR$/ex17_output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex19.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex17.py" afterPath="$PROJECT_DIR$/ex17.py" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex18.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex18.py">
+      <file leaf-file-name="ex19.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="12" selection-start="503" selection-end="503" vertical-scroll-proportion="0.6877729">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.0">
+            <state line="22" column="70" selection-start="678" selection-end="678" vertical-scroll-proportion="0.720524">
               <folding />
             </state>
           </provider>
@@ -72,13 +60,14 @@
         <option value="$PROJECT_DIR$/ex16_example.txt" />
         <option value="$PROJECT_DIR$/ex17.py" />
         <option value="$PROJECT_DIR$/ex18.py" />
+        <option value="$PROJECT_DIR$/ex19.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="662" />
-    <option name="y" value="87" />
-    <option name="width" value="563" />
+    <option name="x" value="659" />
+    <option name="y" value="95" />
+    <option name="width" value="615" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -146,7 +135,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex18">
+  <component name="RunManager" selected="Python.ex19">
     <configuration default="false" name="ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,6 +171,24 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -238,9 +245,10 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.ex17" />
       <item index="1" class="java.lang.String" itemvalue="Python.ex18" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex19" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -271,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="662" y="87" width="563" height="877" extended-state="0" />
+    <frame x="659" y="95" width="615" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.25641027">
@@ -392,9 +393,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.29438204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="12" selection-start="503" selection-end="503" vertical-scroll-proportion="0.6877729">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="70" selection-start="678" selection-end="678" vertical-scroll-proportion="0.720524">
           <folding />
         </state>
       </provider>
