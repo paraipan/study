@@ -23,4 +23,3 @@ print "Allright, all done."
 
 output.close()
 input.close()
-
