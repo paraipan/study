@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1fa9286-d2c4-42d7-9c60-0c97f40e2818" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex20_testfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex21.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex22.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex22.py" afterPath="$PROJECT_DIR$/ex22.py" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex22.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ex22.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex21.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="19" selection-start="706" selection-end="706" vertical-scroll-proportion="0.7882353">
+            <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.02255639">
               <folding />
             </state>
           </provider>
@@ -73,8 +62,8 @@
         <option value="$PROJECT_DIR$/ex18.py" />
         <option value="$PROJECT_DIR$/ex19.py" />
         <option value="$PROJECT_DIR$/ex20.py" />
-        <option value="$PROJECT_DIR$/ex22.py" />
         <option value="$PROJECT_DIR$/ex21.py" />
+        <option value="$PROJECT_DIR$/ex22.py" />
       </list>
     </option>
   </component>
@@ -114,10 +103,10 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -312,9 +301,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="666" y="73" width="592" height="877" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -329,6 +317,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -437,16 +426,14 @@
         <state line="29" column="31" selection-start="484" selection-end="484" vertical-scroll-proportion="0.65413535" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="19" selection-start="706" selection-end="706" vertical-scroll-proportion="0.7882353">
+        <state line="33" column="19" selection-start="706" selection-end="706" vertical-scroll-proportion="0.7592025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="13" selection-start="14" selection-end="14" vertical-scroll-proportion="0.02255639">
           <folding />
         </state>
       </provider>
