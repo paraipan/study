@@ -73,7 +73,7 @@ print "We'd have %d jeans, %d jars, and %d crates." % (beans, jars, crates)
 start_point = start_point / 10
 
 print "We can also do that this way:"
-print "We'd have %d beans, %d jars, and %d crates." % secret_formula(start_point)
+print "We'd have %d beans, %d jars, and  crates." % secret_formula(start_point)
 
 
 sentence = "All god\t things come to those who wait."
