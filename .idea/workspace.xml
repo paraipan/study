@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list id="ceb0fb18-54af-4d86-9c28-6a359fe5a751" name="Default" comment="" />
     <list default="true" id="dcdfe427-3209-4a55-93f4-5c2409db8341" name="New changelist" comment="Coding away...">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex33.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33.py" afterPath="$PROJECT_DIR$/ex33.py" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="ex33.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex33.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.2169059">
+            <state line="13" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.6021798">
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="883" />
-    <option name="y" value="106" />
+    <option name="x" value="907" />
+    <option name="y" value="112" />
     <option name="width" value="660" />
     <option name="height" value="829" />
   </component>
@@ -138,7 +137,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex32">
+  <component name="RunManager" selected="Python.ex33">
     <configuration default="false" name="ex29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,6 +210,26 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="ex33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex33.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +283,12 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.ex29" />
       <item index="1" class="java.lang.String" itemvalue="Python.ex30" />
       <item index="2" class="java.lang.String" itemvalue="Python.ex31" />
       <item index="3" class="java.lang.String" itemvalue="Python.ex32" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex33" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -293,6 +313,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dcdfe427-3209-4a55-93f4-5c2409db8341" name="New changelist" comment="" />
+      <changelist id="ceb0fb18-54af-4d86-9c28-6a359fe5a751" name="Default" comment="" />
       <created>1334068395859</created>
       <updated>1334069163859</updated>
     </task>
@@ -300,28 +321,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="883" y="106" width="660" height="829" extended-state="0" />
+    <frame x="907" y="112" width="660" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822084" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6706056" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6457055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32822084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -380,49 +401,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ex27">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="12" selection-start="604" selection-end="604" vertical-scroll-proportion="1.2680652">
-          <folding />
-        </state>
+        <state line="32" column="12" selection-start="604" selection-end="604" vertical-scroll-proportion="1.2680652" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex28">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="160" selection-end="160" vertical-scroll-proportion="0.2773893">
-          <folding />
-        </state>
+        <state line="7" column="18" selection-start="160" selection-end="160" vertical-scroll-proportion="0.2773893" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex29.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="28" selection-start="484" selection-end="484" vertical-scroll-proportion="1.1553398">
-          <folding />
-        </state>
+        <state line="28" column="28" selection-start="484" selection-end="484" vertical-scroll-proportion="1.1553398" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex31.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex30.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="535" selection-end="535" vertical-scroll-proportion="0.6644951">
-          <folding />
-        </state>
+        <state line="24" column="25" selection-start="535" selection-end="535" vertical-scroll-proportion="0.6644951" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex32.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.8133971" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex33.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.2169059">
+        <state line="13" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.6021798">
           <folding />
         </state>
       </provider>
